@@ -29,7 +29,7 @@ class UpdateMemo : AppCompatActivity() {
         et_update_tanggal.setText(memo.tanggal)
         et_update_isi.setText(memo.isiMemo)
 
-        btn_update.setOnClickListener {
+        btn_update_update.setOnClickListener {
             memo.apply {
                 tanggal = et_update_tanggal.text.toString()
                 isiMemo = et_update_isi.text.toString()
@@ -56,7 +56,7 @@ class UpdateMemo : AppCompatActivity() {
             }
         }
 
-        btn_delete.setOnClickListener {
+        btn_update_delete.setOnClickListener {
             GlobalScope.launch {
                 val totalDeleted = db.memoDao().deleteMemo(memo)
                 runOnUiThread {
