@@ -38,5 +38,4 @@ class MemoAdapter(val listMemo: List<Memo>): RecyclerView.Adapter<MemoAdapter.Vi
             dialog.show(fm, DialogUpdate.TAG)
         }
     }
-
 }
