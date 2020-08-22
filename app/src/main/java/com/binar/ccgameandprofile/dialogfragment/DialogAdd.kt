@@ -8,17 +8,11 @@ import android.view.ViewGroup
 import android.view.WindowManager
 import android.widget.Toast
 import androidx.fragment.app.DialogFragment
-import androidx.lifecycle.ViewModelProvider
 import com.binar.ccgameandprofile.R
 import com.binar.ccgameandprofile.activity.Profile
 import com.binar.ccgameandprofile.database.Memo
 import com.binar.ccgameandprofile.database.MemoDatabase
-import kotlinx.android.synthetic.main.activity_add_memo.*
-import kotlinx.android.synthetic.main.activity_add_memo.view.*
-import kotlinx.android.synthetic.main.activity_profile.view.*
-import kotlinx.android.synthetic.main.activity_update_memo.view.*
 import kotlinx.android.synthetic.main.dialog_add.*
-import kotlinx.android.synthetic.main.dialog_add.view.*
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
 

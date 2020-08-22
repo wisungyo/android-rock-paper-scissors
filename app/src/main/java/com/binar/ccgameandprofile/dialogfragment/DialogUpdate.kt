@@ -52,13 +52,13 @@ class DialogUpdate: DialogFragment() {
                    if (memoUpdated > 0) {
                        Toast.makeText(
                            view.context,
-                           "Update $id $newTanggal $newIsi berhasil",
+                           "Update berhasil",
                            Toast.LENGTH_LONG
                        ).show()
                    } else {
                        Toast.makeText(
                            view.context,
-                           "Update $id $newTanggal $newIsi gagal",
+                           "Update gagal",
                            Toast.LENGTH_LONG
                        ).show()
                    }
@@ -74,13 +74,13 @@ class DialogUpdate: DialogFragment() {
                     if (memoDeleted > 0) {
                         Toast.makeText(
                             view.context,
-                            "Delete $id $tanggal $isiMemo berhasil",
+                            "Delete berhasil",
                             Toast.LENGTH_LONG
                         ).show()
                     } else {
                         Toast.makeText(
                             view.context,
-                            "Delete $id $tanggal $isiMemo gagal",
+                            "Delete gagal",
                             Toast.LENGTH_LONG
                         ).show()
                     }

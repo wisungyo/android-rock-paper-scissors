@@ -10,7 +10,6 @@ import com.binar.ccgameandprofile.database.Memo
 import com.binar.ccgameandprofile.dialogfragment.DialogUpdate
 import kotlinx.android.synthetic.main.rv_card.view.*
 
-
 class MemoAdapter(val listMemo: List<Memo>): RecyclerView.Adapter<MemoAdapter.ViewHolder>() {
     class ViewHolder(itemView: View): RecyclerView.ViewHolder(itemView)
 
