@@ -51,25 +51,31 @@ class DialogAdd: DialogFragment() {
         val day = c.get(Calendar.DAY_OF_MONTH)
 
         et_dialog_add_tanggal.setOnClickListener {
-            val dpd = DatePickerDialog(view.context, R.style.DialogTheme, DatePickerDialog.OnDateSetListener {
-                    view, year, monthOfYear, dayOfMonth ->
-                    val newMonth: String
-                    if (monthOfYear == 0) newMonth = "Januari"
-                    else if (monthOfYear == 1) newMonth = "Februari"
-                    else if (monthOfYear == 2) newMonth = "Maret"
-                    else if (monthOfYear == 3) newMonth = "April"
-                    else if (monthOfYear == 4) newMonth = "Mei"
-                    else if (monthOfYear == 5) newMonth = "Juni"
-                    else if (monthOfYear == 6) newMonth = "Juli"
-                    else if (monthOfYear == 7) newMonth = "Agustus"
-                    else if (monthOfYear == 8) newMonth = "September"
-                    else if (monthOfYear == 9) newMonth = "Oktober"
-                    else if (monthOfYear == 10) newMonth = "November"
-                    else if (monthOfYear == 11) newMonth = "Desember"
-                    else newMonth = "Bulan"
-                        et_dialog_add_tanggal.setText("$dayOfMonth $newMonth $year")
+            val datePicker = DatePickerDialog(
+                view.context,
+                R.style.DialogTheme,
+                DatePickerDialog.OnDateSetListener {
+                        view, year, monthOfYear, dayOfMonth ->
+
+                    val newMonth: String = when (monthOfYear) {
+                        0 -> "Januari"
+                        1 -> "Februari"
+                        2 -> "Maret"
+                        3 -> "April"
+                        4 -> "Mei"
+                        5 -> "Juni"
+                        6 -> "Juli"
+                        7 -> "Agustus"
+                        8 -> "September"
+                        9 -> "Oktober"
+                        10 -> "November"
+                        11 -> "Desember"
+                        else -> "Bulan"
+                    }
+
+                    et_dialog_add_tanggal.setText("$dayOfMonth $newMonth $year")
             }, year, month, day)
-            dpd.show()
+            datePicker.show()
         }
     }
 

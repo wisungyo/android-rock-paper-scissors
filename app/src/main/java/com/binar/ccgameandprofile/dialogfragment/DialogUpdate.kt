@@ -1,5 +1,6 @@
 package com.binar.ccgameandprofile.dialogfragment
 
+import android.annotation.SuppressLint
 import android.app.DatePickerDialog
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -12,7 +13,6 @@ import com.binar.ccgameandprofile.R
 import com.binar.ccgameandprofile.activity.Profile
 import com.binar.ccgameandprofile.database.Memo
 import com.binar.ccgameandprofile.database.MemoDatabase
-import kotlinx.android.synthetic.main.dialog_add.*
 import kotlinx.android.synthetic.main.dialog_update.*
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
@@ -33,6 +33,7 @@ class DialogUpdate: DialogFragment() {
         return inflater.inflate(R.layout.dialog_update, container, false)
     }
 
+    @SuppressLint("SetTextI18n")
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         MemoDatabase.getIntance(view.context)?.let {
@@ -102,25 +103,31 @@ class DialogUpdate: DialogFragment() {
         val day = c.get(Calendar.DAY_OF_MONTH)
 
         et_update_tanggal.setOnClickListener {
-            val dpd = DatePickerDialog(view.context, R.style.DialogTheme, DatePickerDialog.OnDateSetListener {
-                    view, year, monthOfYear, dayOfMonth ->
-                val newMonth: String
-                if (monthOfYear == 0) newMonth = "Januari"
-                else if (monthOfYear == 1) newMonth = "Februari"
-                else if (monthOfYear == 2) newMonth = "Maret"
-                else if (monthOfYear == 3) newMonth = "April"
-                else if (monthOfYear == 4) newMonth = "Mei"
-                else if (monthOfYear == 5) newMonth = "Juni"
-                else if (monthOfYear == 6) newMonth = "Juli"
-                else if (monthOfYear == 7) newMonth = "Agustus"
-                else if (monthOfYear == 8) newMonth = "September"
-                else if (monthOfYear == 9) newMonth = "Oktober"
-                else if (monthOfYear == 10) newMonth = "November"
-                else if (monthOfYear == 11) newMonth = "Desember"
-                else newMonth = "Bulan"
-                et_update_tanggal.setText("$dayOfMonth $newMonth $year")
+            val datePicker = DatePickerDialog(
+                view.context,
+                R.style.DialogTheme,
+                DatePickerDialog.OnDateSetListener {
+                        _, year, monthOfYear, dayOfMonth ->
+
+                    val newMonth: String = when (monthOfYear) {
+                        0 -> "Januari"
+                        1 -> "Februari"
+                        2 -> "Maret"
+                        3 -> "April"
+                        4 -> "Mei"
+                        5 -> "Juni"
+                        6 -> "Juli"
+                        7 -> "Agustus"
+                        8 -> "September"
+                        9 -> "Oktober"
+                        10 -> "November"
+                        11 -> "Desember"
+                        else -> "Bulan"
+                    }
+
+                    et_update_tanggal.setText("$dayOfMonth $newMonth $year")
             }, year, month, day)
-            dpd.show()
+            datePicker.show()
         }
     }
 
