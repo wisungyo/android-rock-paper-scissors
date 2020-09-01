@@ -1,4 +1,4 @@
-package com.binar.ccgameandprofile.activity
+package com.binar.ccgameandprofile.ingame
 
 import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity

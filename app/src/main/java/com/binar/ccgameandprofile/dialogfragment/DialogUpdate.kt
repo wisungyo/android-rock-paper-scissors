@@ -10,7 +10,7 @@ import android.view.WindowManager
 import android.widget.Toast
 import androidx.fragment.app.DialogFragment
 import com.binar.ccgameandprofile.R
-import com.binar.ccgameandprofile.activity.Profile
+import com.binar.ccgameandprofile.profile.Profile
 import com.binar.ccgameandprofile.database.Memo
 import com.binar.ccgameandprofile.database.MemoDatabase
 import kotlinx.android.synthetic.main.dialog_update.*

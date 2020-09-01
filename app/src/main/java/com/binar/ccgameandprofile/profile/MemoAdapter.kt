@@ -1,4 +1,4 @@
-package com.binar.ccgameandprofile.activity
+package com.binar.ccgameandprofile.profile
 
 import android.os.Bundle
 import android.view.LayoutInflater
