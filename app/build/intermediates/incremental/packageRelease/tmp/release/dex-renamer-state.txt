@@ -1,0 +1,4 @@
+#Sat Aug 22 10:36:16 WIB 2020
+base.0=/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

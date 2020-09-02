@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E0F0FA"
+    tools:context=".activity.Menu">
+
+    <ImageView
+        android:id="@+id/btn_profile"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:src="@drawable/ic_profile"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="ContentDescription" />
+
+    <ImageView
+        android:id="@+id/btn_exit"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:src="@drawable/ic_exit"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/tv_menu_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/roboto"
+        android:text="@string/pilih_lawanmu"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="#6C63FF"
+        android:textSize="32sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/guideline2" />
+
+    <ImageView
+        android:id="@+id/btn_vs_player"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:src="@drawable/intro1"
+        android:background="@drawable/bg_intro"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="64dp"
+        android:padding="16dp"
+        app:layout_constraintEnd_toEndOf="@id/guideline3"
+        app:layout_constraintTop_toBottomOf="@id/tv_menu_title"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:text="@string/vs_sahabat"
+        android:fontFamily="@font/roboto"
+        android:gravity="center"
+        android:textColor="#6C63FF"
+        android:textSize="21sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        app:layout_constraintStart_toStartOf="@id/btn_vs_player"
+        app:layout_constraintEnd_toEndOf="@id/btn_vs_player"
+        app:layout_constraintTop_toBottomOf="@id/btn_vs_player" />
+
+    <ImageView
+        android:id="@+id/btn_vs_com"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:src="@drawable/intro2"
+        android:background="@drawable/bg_intro"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="64dp"
+        android:padding="16dp"
+        app:layout_constraintStart_toStartOf="@id/guideline3"
+        app:layout_constraintTop_toBottomOf="@id/tv_menu_title"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:text="@string/vs_komputer"
+        android:fontFamily="@font/roboto"
+        android:gravity="center"
+        android:textColor="#6C63FF"
+        android:textSize="21sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        app:layout_constraintStart_toStartOf="@id/btn_vs_com"
+        app:layout_constraintEnd_toEndOf="@id/btn_vs_com"
+        app:layout_constraintTop_toBottomOf="@id/btn_vs_com" />
+
+    <View
+        android:id="@+id/view_menu"
+        android:background="#6C63FF"
+        android:layout_width="0dp"
+        android:layout_height="200dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.09" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.5" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

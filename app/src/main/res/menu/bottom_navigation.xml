@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/item_1"
+        android:title="vs Sahabat"
+        android:icon="@drawable/ic_remove"
+        app:cnb_iconColor="#1F94ED" />
+    <item
+        android:id="@+id/item_2"
+        android:title="vs Komputer"
+        android:icon="@drawable/ic_remove"
+        app:cnb_iconColor="#6637B4" />
+    <item
+        android:id="@+id/item_3"
+        android:title="Bersiaplah!"
+        android:icon="@drawable/ic_remove"
+        app:cnb_iconColor="#FF6347" />
+</menu>

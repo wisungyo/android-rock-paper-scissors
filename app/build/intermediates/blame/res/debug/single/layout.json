@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_1.xml",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/fragment_1.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_update.xml",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/dialog_update.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_intro.xml",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/activity_intro.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_add.xml",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/dialog_add.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/rv_card.xml",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/rv_card.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_profile.xml",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_2.xml",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/fragment_2.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login.xml",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash.xml",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_3.xml",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/fragment_3.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_add_memo.xml",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/activity_add_memo.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_update_memo.xml",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/activity_update_memo.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_vs_sahabat.xml",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/activity_vs_sahabat.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_menu.xml",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/activity_menu.xml"
+    }
+]

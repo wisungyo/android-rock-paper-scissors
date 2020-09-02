@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable_ic_profile.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable-v24_ic_rock_red.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable-v24/ic_rock_red.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable-v24_ic_scissors_red.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable-v24/ic_scissors_red.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable_ic_exit.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable/ic_exit.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable_bg_input_2.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable/bg_input_2.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable-v24_ic_stroke_green.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable-v24/ic_stroke_green.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/layout_activity_splash.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/layout_fragment_1.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/fragment_1.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/layout_activity_menu.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/activity_menu.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable_ic_remove.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable/ic_remove.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable-v24_intro1.png.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable-v24/intro1.png"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/layout_activity_main.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable_bg_input_3.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable/bg_input_3.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable_bg_intro.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable/bg_intro.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable_ic_add.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/layout_activity_intro.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/activity_intro.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable_bg_intro_2.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable/bg_intro_2.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable-v24_ic_paper_red.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable-v24/ic_paper_red.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable-v24_ic_background.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable-v24/ic_background.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable-v24_ic_stroke_red.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable-v24/ic_stroke_red.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/layout_activity_vs_sahabat.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/activity_vs_sahabat.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/layout_dialog_add.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/dialog_add.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable-v24_ic_fill.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable-v24/ic_fill.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/layout_fragment_3.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/fragment_3.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/layout_dialog_update.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/dialog_update.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable_ic_circle.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable/ic_circle.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable_bg_input.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable/bg_input.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/layout_rv_card.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/rv_card.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable-v24_intro2.png.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable-v24/intro2.png"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/layout_activity_login.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/font_roboto.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/font/roboto.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable-v24_ic_paper.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable-v24/ic_paper.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable-v24_ic_scissors_green.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable-v24/ic_scissors_green.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable_ic_arrow_right.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable/ic_arrow_right.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable-v24_intro3.png.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable-v24/intro3.png"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/layout_fragment_2.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/fragment_2.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable-v24_ic_scissors.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable-v24/ic_scissors.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable-v24_ic_stroke.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable-v24/ic_stroke.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable-v24_ic_paper_green.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable-v24/ic_paper_green.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable-v24_ic_rounded_rectangle.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable-v24/ic_rounded_rectangle.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/font_roboto_medium.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/font/roboto_medium.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable-v24_splash.png.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable-v24/splash.png"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/font_roboto_bold.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/font/roboto_bold.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable_ic_back.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable/ic_back.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/menu_bottom_navigation.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/menu/bottom_navigation.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/layout_activity_profile.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable-v24_ic_rock_green.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable-v24/ic_rock_green.xml"
+    },
+    {
+        "merged": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/res/merged/release/drawable-v24_ic_rock.xml.flat",
+        "source": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/src/main/res/drawable-v24/ic_rock.xml"
+    }
+]

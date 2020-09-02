@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/wisungyo/AndroidStudioProjects/CCGameAndProfile/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi-rVN/values-vi-rVN.xml",
+            "map": [
+                {
+                    "source": "/home/wisungyo/.gradle/caches/transforms-2/files-2.1/e9c6dca63821126e7f84a9fcc4f92ac8/jetified-AppIntro-v5.1.0/res/values-vi-rVN/values-vi-rVN.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,116",
+                        "endColumns": "60,56",
+                        "endOffsets": "111,168"
+                    }
+                }
+            ]
+        }
+    ]
+}
